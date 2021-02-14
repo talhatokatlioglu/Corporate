@@ -21,6 +21,7 @@ namespace OOP3
             foreach (var kredi in krediler)
             {
                 kredi.Hesapla();
+                //Talha
             }
         }
     }
